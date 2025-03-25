@@ -1,0 +1,9 @@
+Flask
+flask-ngrok
+yfinance
+langchain
+langchain-google-genai
+openai
+google-generativeai
+requests
+pandas
